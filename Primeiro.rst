@@ -4,6 +4,8 @@ FORMATAÇÃO DE TEXTO
 Como destacar parte de um texto, com *Itálico* ou **Negrito**. 
 Pode-se também descartar um texto com fonte ``monoespaçada``.
 
+Veja mais em `LISTAS`_.
+
 Percebe-se, então, que para formatar em:
 
 * Itálico: cerca-se o texto com um asterisco (*)
@@ -12,8 +14,8 @@ Percebe-se, então, que para formatar em:
 
 **esse texto foi escrito por artur pinto (em negrito)**
   
-  LISTAS
-  ------
+LISTAS
+------
   
   Vamos criar uma lista? 
   Para criar uma lista:
